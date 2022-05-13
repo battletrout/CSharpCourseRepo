@@ -1,0 +1,10 @@
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_EventVenue\Mod1Lab1_EventVenue\bin\Debug\Mod1Lab1_EventVenue.exe.config
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_EventVenue\Mod1Lab1_EventVenue\bin\Debug\Mod1Lab1_EventVenue.exe
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_EventVenue\Mod1Lab1_EventVenue\bin\Debug\Mod1Lab1_EventVenue.pdb
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_EventVenue\Mod1Lab1_EventVenue\obj\Debug\Mod1Lab1_EventVenue.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_EventVenue\Mod1Lab1_EventVenue\obj\Debug\Mod1Lab1_EventVenue.TicketSalesCalculator.resources
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_EventVenue\Mod1Lab1_EventVenue\obj\Debug\Mod1Lab1_EventVenue.Properties.Resources.resources
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_EventVenue\Mod1Lab1_EventVenue\obj\Debug\Mod1Lab1_EventVenue.csproj.GenerateResource.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_EventVenue\Mod1Lab1_EventVenue\obj\Debug\Mod1Lab1_EventVenue.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_EventVenue\Mod1Lab1_EventVenue\obj\Debug\Mod1Lab1_EventVenue.exe
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_EventVenue\Mod1Lab1_EventVenue\obj\Debug\Mod1Lab1_EventVenue.pdb
