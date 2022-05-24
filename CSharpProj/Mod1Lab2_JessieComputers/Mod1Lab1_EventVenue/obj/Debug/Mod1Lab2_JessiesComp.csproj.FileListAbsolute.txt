@@ -1,0 +1,11 @@
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_JessieComputers\Mod1Lab1_EventVenue\bin\Debug\Mod1Lab2_JessiesComps.exe.config
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_JessieComputers\Mod1Lab1_EventVenue\bin\Debug\Mod1Lab2_JessiesComps.exe
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_JessieComputers\Mod1Lab1_EventVenue\bin\Debug\Mod1Lab2_JessiesComps.pdb
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_JessieComputers\Mod1Lab1_EventVenue\obj\Debug\Mod1Lab2_JessiesComp.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_JessieComputers\Mod1Lab1_EventVenue\obj\Debug\Mod1Lab2_JessiesComp.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_JessieComputers\Mod1Lab1_EventVenue\obj\Debug\Mod1Lab2_JessiesComps.Properties.Resources.resources
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_JessieComputers\Mod1Lab1_EventVenue\obj\Debug\Mod1Lab2_JessiesComp.csproj.GenerateResource.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_JessieComputers\Mod1Lab1_EventVenue\obj\Debug\Mod1Lab2_JessiesComp.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_JessieComputers\Mod1Lab1_EventVenue\obj\Debug\Mod1Lab2_JessiesComps.exe
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_JessieComputers\Mod1Lab1_EventVenue\obj\Debug\Mod1Lab2_JessiesComps.pdb
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1Lab1_JessieComputers\Mod1Lab1_EventVenue\obj\Debug\Mod1Lab2_JessieComp.ComputerMarkupCalculator.resources

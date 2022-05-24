@@ -1,0 +1,15 @@
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab2_DnD\DnD\DnD\bin\Debug\net6.0\DnD.exe
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab2_DnD\DnD\DnD\bin\Debug\net6.0\DnD.deps.json
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab2_DnD\DnD\DnD\bin\Debug\net6.0\DnD.runtimeconfig.json
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab2_DnD\DnD\DnD\bin\Debug\net6.0\DnD.dll
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab2_DnD\DnD\DnD\bin\Debug\net6.0\DnD.pdb
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab2_DnD\DnD\DnD\obj\Debug\net6.0\DnD.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab2_DnD\DnD\DnD\obj\Debug\net6.0\DnD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab2_DnD\DnD\DnD\obj\Debug\net6.0\DnD.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab2_DnD\DnD\DnD\obj\Debug\net6.0\DnD.AssemblyInfo.cs
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab2_DnD\DnD\DnD\obj\Debug\net6.0\DnD.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab2_DnD\DnD\DnD\obj\Debug\net6.0\DnD.dll
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab2_DnD\DnD\DnD\obj\Debug\net6.0\refint\DnD.dll
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab2_DnD\DnD\DnD\obj\Debug\net6.0\DnD.pdb
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab2_DnD\DnD\DnD\obj\Debug\net6.0\DnD.genruntimeconfig.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab2_DnD\DnD\DnD\obj\Debug\net6.0\ref\DnD.dll

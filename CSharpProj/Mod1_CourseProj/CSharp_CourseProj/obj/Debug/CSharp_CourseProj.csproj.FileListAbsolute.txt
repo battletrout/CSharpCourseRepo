@@ -1,0 +1,11 @@
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1_CourseProj\CSharp_CourseProj\bin\Debug\Mod1Lab1_EventVenue.exe.config
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1_CourseProj\CSharp_CourseProj\bin\Debug\Mod1Lab1_EventVenue.exe
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1_CourseProj\CSharp_CourseProj\bin\Debug\Mod1Lab1_EventVenue.pdb
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1_CourseProj\CSharp_CourseProj\obj\Debug\CSharp_CourseProj.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1_CourseProj\CSharp_CourseProj\obj\Debug\CSharp_CourseProj.csproj.SuggestedBindingRedirects.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1_CourseProj\CSharp_CourseProj\obj\Debug\CourseProj.CourseProj.resources
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1_CourseProj\CSharp_CourseProj\obj\Debug\Mod1Lab1_EventVenue.Properties.Resources.resources
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1_CourseProj\CSharp_CourseProj\obj\Debug\CSharp_CourseProj.csproj.GenerateResource.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1_CourseProj\CSharp_CourseProj\obj\Debug\CSharp_CourseProj.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1_CourseProj\CSharp_CourseProj\obj\Debug\Mod1Lab1_EventVenue.exe
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod1_CourseProj\CSharp_CourseProj\obj\Debug\Mod1Lab1_EventVenue.pdb

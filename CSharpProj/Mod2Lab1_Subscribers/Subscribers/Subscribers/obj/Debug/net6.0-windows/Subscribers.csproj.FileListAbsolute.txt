@@ -1,0 +1,17 @@
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\bin\Debug\net6.0-windows\Subscribers.exe
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\bin\Debug\net6.0-windows\Subscribers.deps.json
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\bin\Debug\net6.0-windows\Subscribers.runtimeconfig.json
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\bin\Debug\net6.0-windows\Subscribers.dll
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\bin\Debug\net6.0-windows\Subscribers.pdb
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\obj\Debug\net6.0-windows\Subscribers.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\obj\Debug\net6.0-windows\Subscribers.Subscribers.resources
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\obj\Debug\net6.0-windows\Subscribers.csproj.GenerateResource.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\obj\Debug\net6.0-windows\Subscribers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\obj\Debug\net6.0-windows\Subscribers.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\obj\Debug\net6.0-windows\Subscribers.AssemblyInfo.cs
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\obj\Debug\net6.0-windows\Subscribers.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\obj\Debug\net6.0-windows\Subscribers.dll
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\obj\Debug\net6.0-windows\refint\Subscribers.dll
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\obj\Debug\net6.0-windows\Subscribers.pdb
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\obj\Debug\net6.0-windows\Subscribers.genruntimeconfig.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod2Lab1_Subscribers\Subscribers\Subscribers\obj\Debug\net6.0-windows\ref\Subscribers.dll
