@@ -1,0 +1,15 @@
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod3Lab1_Calc\Mod2_Calc_Console\Mod2_Subscribers_Console\obj\Debug\net6.0\Mod3_Calc_Console.csproj.AssemblyReference.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod3Lab1_Calc\Mod2_Calc_Console\Mod2_Subscribers_Console\obj\Debug\net6.0\Mod3_Calc_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod3Lab1_Calc\Mod2_Calc_Console\Mod2_Subscribers_Console\obj\Debug\net6.0\Mod3_Calc_Console.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod3Lab1_Calc\Mod2_Calc_Console\Mod2_Subscribers_Console\obj\Debug\net6.0\Mod3_Calc_Console.AssemblyInfo.cs
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod3Lab1_Calc\Mod2_Calc_Console\Mod2_Subscribers_Console\obj\Debug\net6.0\Mod3_Calc_Console.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod3Lab1_Calc\Mod2_Calc_Console\Mod2_Subscribers_Console\bin\Debug\net6.0\Mod3_Calc_Console.exe
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod3Lab1_Calc\Mod2_Calc_Console\Mod2_Subscribers_Console\bin\Debug\net6.0\Mod3_Calc_Console.deps.json
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod3Lab1_Calc\Mod2_Calc_Console\Mod2_Subscribers_Console\bin\Debug\net6.0\Mod3_Calc_Console.runtimeconfig.json
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod3Lab1_Calc\Mod2_Calc_Console\Mod2_Subscribers_Console\bin\Debug\net6.0\Mod3_Calc_Console.dll
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod3Lab1_Calc\Mod2_Calc_Console\Mod2_Subscribers_Console\bin\Debug\net6.0\Mod3_Calc_Console.pdb
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod3Lab1_Calc\Mod2_Calc_Console\Mod2_Subscribers_Console\obj\Debug\net6.0\Mod3_Calc_Console.dll
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod3Lab1_Calc\Mod2_Calc_Console\Mod2_Subscribers_Console\obj\Debug\net6.0\refint\Mod3_Calc_Console.dll
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod3Lab1_Calc\Mod2_Calc_Console\Mod2_Subscribers_Console\obj\Debug\net6.0\Mod3_Calc_Console.pdb
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod3Lab1_Calc\Mod2_Calc_Console\Mod2_Subscribers_Console\obj\Debug\net6.0\Mod3_Calc_Console.genruntimeconfig.cache
+C:\Users\natha\OneDrive\School_Again\Rasmussen\COP2456C-Csharp\COP2456C-Csharp_repo\CSharpProj\Mod3Lab1_Calc\Mod2_Calc_Console\Mod2_Subscribers_Console\obj\Debug\net6.0\ref\Mod3_Calc_Console.dll
